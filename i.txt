@@ -1,0 +1,7 @@
+TPscraping/
+├── dbmongo.py
+├── scraper_books.py
+├── scraper_books_by_category.py
+├── streamlit_app.py
+├── requirements.txt
+└── ... (autres fichiers éventuels)
